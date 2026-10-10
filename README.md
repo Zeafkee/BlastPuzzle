@@ -3,11 +3,9 @@
 A mobile collapse/blast puzzle game made with Unity 6. Tap groups of matching blocks, build rockets,
 bombs and disco balls from big groups, break boxes, and finish the goals before you run out of moves.
 
-<!-- TODO: gameplay GIF (portrait, ~10 s, < 5 MB) goes here -->
-
 ![screenshots](Docs/screenshots.png)
 
-**Play:** itch.io (WebGL) — _coming soon_ · **Android:** APK in [Releases](../../releases) — _coming soon_
+**Play in the browser:** [zeafkee.github.io/play/blastpuzzle](https://zeafkee.github.io/play/blastpuzzle/) · **Android:** APK in [Releases](../../releases/latest)
 
 ## Features
 
