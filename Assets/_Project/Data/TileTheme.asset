@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 629d3900f327d6740b096e5d84d85dff, type: 3}
+  m_Name: TileTheme
+  m_EditorClassIdentifier: BlastPuzzle.Runtime::BlastPuzzle.Data.TileTheme
+  colors:
+  - name: Red
+    tint: {r: 0.92156863, g: 0.2509804, b: 0.23529412, a: 1}
+    tiers:
+    - {fileID: 21300000, guid: 546990878b178084fa7e0b0586419011, type: 3}
+    - {fileID: 21300000, guid: 6389a38c26fc40246b2441aab5167948, type: 3}
+    - {fileID: 21300000, guid: 5e2b21c6671857c45a15e3a0807c1c72, type: 3}
+    - {fileID: 21300000, guid: 25f5f57ee17b8b04bb0254c93cdd47b6, type: 3}
+    disco: {fileID: 21300000, guid: dac79c1a5633cad468dd79562ae50b31, type: 3}
+  - name: Yellow
+    tint: {r: 1, g: 0.7372549, b: 0.10980392, a: 1}
+    tiers:
+    - {fileID: 21300000, guid: 048a16da988c8f84a816cd53fe2a53c5, type: 3}
+    - {fileID: 21300000, guid: ea278b3b9f08a9541b6c1ddda2478805, type: 3}
+    - {fileID: 21300000, guid: ecdc8a15f92b34942aab046b7469935d, type: 3}
+    - {fileID: 21300000, guid: 750b7bf112d212e4ebe53c02aabdc65e, type: 3}
+    disco: {fileID: 21300000, guid: 2da18197f5a162f40aa21027ff6e210e, type: 3}
+  - name: Blue
+    tint: {r: 0.17254902, g: 0.57254905, b: 1, a: 1}
+    tiers:
+    - {fileID: 21300000, guid: 5c298ee87dce250488f9a62eff75142d, type: 3}
+    - {fileID: 21300000, guid: 5a3847ba512a5ed428f423762264678b, type: 3}
+    - {fileID: 21300000, guid: c0d95e3216dc35243b76cc1a43d86bed, type: 3}
+    - {fileID: 21300000, guid: b511d93e9d5164f4ba53b4786f4d36b0, type: 3}
+    disco: {fileID: 21300000, guid: 04c5d7df977668846997500f8c533915, type: 3}
+  - name: Green
+    tint: {r: 0.29803923, g: 0.76862746, b: 0.2509804, a: 1}
+    tiers:
+    - {fileID: 21300000, guid: c17701d683148214dadd1fb089093eee, type: 3}
+    - {fileID: 21300000, guid: 34c38466650439a4dbe2ab5172301863, type: 3}
+    - {fileID: 21300000, guid: eb3a97037a1c04e4daa8638ac18b9fb1, type: 3}
+    - {fileID: 21300000, guid: 36da4ea5d7f54d64e8de54e92e2b994e, type: 3}
+    disco: {fileID: 21300000, guid: 360d6faa46cffe647bc6d4f61ddec1f2, type: 3}
+  - name: Purple
+    tint: {r: 0.627451, g: 0.32941177, b: 0.9098039, a: 1}
+    tiers:
+    - {fileID: 21300000, guid: 0689059c31f467f4a8042687d1604767, type: 3}
+    - {fileID: 21300000, guid: 43613e838a68797408f5d50d9fd69e69, type: 3}
+    - {fileID: 21300000, guid: e35cc724f3efea64b939236810af5522, type: 3}
+    - {fileID: 21300000, guid: 541e61a886a07714cae1cdad145af43c, type: 3}
+    disco: {fileID: 21300000, guid: 478c08ca7bf22f24d9520672974c814f, type: 3}
+  - name: Pink
+    tint: {r: 1, g: 0.40784314, b: 0.69803923, a: 1}
+    tiers:
+    - {fileID: 21300000, guid: 295a3e5ed3dd1874e85085b2e12782d9, type: 3}
+    - {fileID: 21300000, guid: b9aa101410408a243a8757ddb7b97e00, type: 3}
+    - {fileID: 21300000, guid: 589eeddec72d7ea4f964f10564d5296e, type: 3}
+    - {fileID: 21300000, guid: b88cb617c11a09f4787514c98f24b929, type: 3}
+    disco: {fileID: 21300000, guid: 4027be6e2c12f1b44af2fc18fa1f207b, type: 3}
+  rocket: {fileID: 21300000, guid: 5f6a7035d32868e499cfa988f91a0087, type: 3}
+  bomb: {fileID: 21300000, guid: 217cd86f3a8bd5544a4840486bc16e7c, type: 3}
+  box: {fileID: 21300000, guid: 4c2e2ef07c6c62547b6f25837fe42249, type: 3}
+  boxReinforced: {fileID: 21300000, guid: de4b9773f43a4864db1c198b2951282e, type: 3}
+  boxTint: {r: 0.80784315, g: 0.5568628, b: 0.30588236, a: 1}

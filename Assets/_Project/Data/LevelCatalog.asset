@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a68dca31efc016f459da40083bfc7ae7, type: 3}
+  m_Name: LevelCatalog
+  m_EditorClassIdentifier: BlastPuzzle.Runtime::BlastPuzzle.Data.LevelCatalog
+  levels:
+  - {fileID: 11400000, guid: 46001b3dfee331d47bd3f49c1dfd3471, type: 2}
+  - {fileID: 11400000, guid: 220771f898977ec48b91ab5c64615923, type: 2}
+  - {fileID: 11400000, guid: 1e0371f8ca2549f42aee7c0f56201d18, type: 2}
+  - {fileID: 11400000, guid: 3f2333af2d0d9df40aa28c075fcf0ee3, type: 2}
+  - {fileID: 11400000, guid: d8c90e5901ca50c418dad2205378bd51, type: 2}
+  - {fileID: 11400000, guid: bea264937ce7c4c41b4a19b4f0fbb7f8, type: 2}
+  - {fileID: 11400000, guid: 14ce1822188bac441b9ede9926846896, type: 2}
+  - {fileID: 11400000, guid: edc6708743da4874b99f57ed47f74aba, type: 2}
+  - {fileID: 11400000, guid: 5ff663de26a8d8948a56b928b5f1c4bc, type: 2}
+  - {fileID: 11400000, guid: 4226c05c0c521ff41b351fce4f8f12ab, type: 2}
+  - {fileID: 11400000, guid: a037542c61324ab41952b4cb8e2cc95b, type: 2}
+  - {fileID: 11400000, guid: fd4225b8d8d49bc439ec7873302a1235, type: 2}
+  - {fileID: 11400000, guid: 966eded4e9c10ee44bcca6a7a487442e, type: 2}
+  - {fileID: 11400000, guid: 2e03ec8c09c96c044865360da2fdd027, type: 2}
+  - {fileID: 11400000, guid: 3b9bc054e87e90041b99402c7777174e, type: 2}
+  - {fileID: 11400000, guid: c4ecebd5444269c45997bb96336cad95, type: 2}
+  - {fileID: 11400000, guid: f635188bf31342943a9e57fdbaa394a3, type: 2}
+  - {fileID: 11400000, guid: cbc9fac01e706b24b948bd06e8f3cb77, type: 2}
+  - {fileID: 11400000, guid: 5a0b8cf4925a1104fa528dfb2ff80294, type: 2}
+  - {fileID: 11400000, guid: 7060bf0956baed94c8edabea3beccdf8, type: 2}
